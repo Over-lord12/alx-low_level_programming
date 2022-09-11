@@ -1,9 +1,11 @@
 #include<stdio.h>
 
 /**
- * main using voi
- * d
- *A C progarm that outputs a str
+ * main using void
+ *
+ * A C progarm that outputs a str
+ *
+ * return zero
  */
 int main(void)
 {
