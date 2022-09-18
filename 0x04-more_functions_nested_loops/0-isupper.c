@@ -2,15 +2,13 @@
 
 /**
  * _isupper - checks uppercase
- *
  * @c: parameter
- *
  * Return: Alway return 0 if lowercase
  */
 
 int _isupper(int c)
 {
-	if (c >= 65 && c >= 90)
+	if (c >= 65 && c < 91)
 	{
 		return (1);
 	}
